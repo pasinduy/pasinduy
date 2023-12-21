@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaFx with Maven**
 
-- 📝 I regularly write articles on [https://medium.com/@yapagunasekara08](https://medium.com/@yapagunasekara08)
+- 📝 I occasionally write articles on [https://medium.com/@yapagunasekara08](https://medium.com/@yapagunasekara08)
 
 - 📫 How to reach me **pasindu.yapa03@gmail.com**
 
