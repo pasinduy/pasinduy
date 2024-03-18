@@ -1,7 +1,7 @@
 <center><h1>Hi there, I'm Pasindu Yapa 👋</h1></center>
 
 # 💫 About Me:
-🔭 I’m currently working on My Web Portfolio and Library Management System.<br>🤝 I’m looking for help with Learning new Languages.<br>🌱 I’m currently learning Java, HTML, CSS and JS.<br>💬 Ask me about Coding, Gaming and Cinema.<br>⚡ Fun fact is that I'm a Sarcastic Goofball
+🔭 I’m currently working on My Web Portfolio and Angular.<br>🤝 I’m looking for help with Learning new Languages.<br>🌱 I’m currently learning Java, HTML, CSS and JS.<br>💬 Ask me about Coding, Gaming and Cinema.<br>⚡ Fun fact is that I'm a Sarcastic Goofball
 
 
 ## 🌐 Socials:
